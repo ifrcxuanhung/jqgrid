@@ -1,0 +1,1 @@
+jQuery21107850627296776672_1441354848437([{"value":"Vaffeljernet","label":"Vaffeljernet"},{"value":"Victuailles en stock","label":"Victuailles en stock"},{"value":"Vins et alcools Chevalier","label":"Vins et alcools Chevalier"}])
